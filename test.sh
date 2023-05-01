@@ -1,0 +1,3 @@
+do
+pass
+while true
